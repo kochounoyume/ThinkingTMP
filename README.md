@@ -1,0 +1,2 @@
+# ThinkingTMP
+TextMeshProのFontAssetsを作成するCLIを（Unity非依存で）作成できないか検討する
