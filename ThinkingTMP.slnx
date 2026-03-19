@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ThinkingTMP.Cli/ThinkingTMP.Cli.csproj" />
+    <Project Path="src/ThinkingTMP.Core/ThinkingTMP.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ThinkingTMP.Tests/ThinkingTMP.Tests.csproj" />
+  </Folder>
+</Solution>
